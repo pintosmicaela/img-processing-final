@@ -1,0 +1,33 @@
+# Created by Octave 9.2.0, Thu Dec 05 00:41:58 2024 GMT <unknown@DESKTOP-EU9FRE9>
+# name: ellipse_data
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 5
+# name: xc
+# type: scalar
+240.38205332624679
+
+
+# name: yc
+# type: scalar
+241.01443883426344
+
+
+# name: a
+# type: scalar
+185.45228506261617
+
+
+# name: b
+# type: scalar
+166.22958784559395
+
+
+# name: theta
+# type: scalar
+0.51965159407871675
+
+
+
+
